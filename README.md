@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://rageshpicks.netlify.app/">
-    <img alt="Mockup" src="https://user-images.githubusercontent.com/64855541/148080556-ec9d5062-1092-4bd4-ba12-82a153e32985.png" />
+    <img alt="Mockup" src="https://github.com/ezhillragesh/rageshpicks/blob/main/website_mockup.png" />
   </a>
 </div>
 
